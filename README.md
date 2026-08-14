@@ -1,5 +1,11 @@
 # Creative Multiverse
 
+Install the skill:
+
+```bash
+npx skills add marketingskills/creative-multiverse
+```
+
 `creative-multiverse` is an agent skill for producing unusually original but coherent writing. It maps and excludes the obvious answers, generates probability-bearing creative options, mechanically samples an asymmetric creative genome, forces the strange premise to create real consequences, and protects those decisions while editing for quality.
 
 The research basis is *Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM Diversity* ([paper](https://arxiv.org/html/2510.01171v4), [authors' implementation](https://github.com/CHATS-lab/verbalized-sampling)). The paper reports roughly 1.6-2.1x higher creative-writing diversity in its experiments. This repository does not claim a literal 1000x measured improvement; five candidates across five decisions instead create up to 3,125 reachable creative paths.
