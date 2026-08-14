@@ -1,0 +1,4 @@
+interface:
+  display_name: "Creative Multiverse"
+  short_description: "Generate radically original, coherent writing"
+  default_prompt: "Use $creative-multiverse in ultra mode to create an original piece with a mechanically sampled creative genome."
