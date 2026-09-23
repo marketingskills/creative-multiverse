@@ -1,5 +1,7 @@
 # Creative Multiverse
 
+> Part of [Marketing Skills](https://marketingskills.net/skills/creative-multiverse/) — open-source marketing operators for AI agents.
+
 Install the skill:
 
 ```bash
